@@ -1,3 +1,3 @@
 # sample
 
-This is a sample repository.
+Hello, world! This is a sample repository.
